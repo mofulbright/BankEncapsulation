@@ -1,0 +1,14 @@
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.exe
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.deps.json
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.runtimeconfig.json
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.runtimeconfig.dev.json
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.dll
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\netcoreapp3.1\BankEncapsulation.pdb
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.AssemblyInfo.cs
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.dll
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.pdb
+C:\Users\Morgan\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\netcoreapp3.1\BankEncapsulation.genruntimeconfig.cache
